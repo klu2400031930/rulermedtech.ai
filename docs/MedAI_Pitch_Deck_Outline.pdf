@@ -1,0 +1,175 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 1493 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+54 760 Td
+(MedAI - Pitch Deck Outline) Tj
+T*
+(Date: 2026-03-13) Tj
+T*
+() Tj
+T*
+(Slide 1 - Title) Tj
+T*
+(- MedAI: Rural HealthTech Platform) Tj
+T*
+(- Tagline: AI-assisted triage and care access) Tj
+T*
+() Tj
+T*
+(Slide 2 - Problem) Tj
+T*
+(- Delayed diagnosis in rural areas) Tj
+T*
+(- Lack of specialist access) Tj
+T*
+(- Slow emergency response) Tj
+T*
+() Tj
+T*
+(Slide 3 - Solution) Tj
+T*
+(- AI symptom check with risk scoring) Tj
+T*
+(- Online consultations and booking) Tj
+T*
+(- Emergency escalation workflow) Tj
+T*
+(- Precaution chatbot for guidance) Tj
+T*
+() Tj
+T*
+(Slide 4 - Product Demo \(What users see\)) Tj
+T*
+(- Symptom entry and AI results) Tj
+T*
+(- Booking flow) Tj
+T*
+(- Emergency trigger) Tj
+T*
+(- Role-based dashboards) Tj
+T*
+() Tj
+T*
+(Slide 5 - Architecture) Tj
+T*
+(- React frontend) Tj
+T*
+(- Node/Express backend) Tj
+T*
+(- FastAPI AI service) Tj
+T*
+(- MongoDB + Socket.IO) Tj
+T*
+() Tj
+T*
+(Slide 6 - AI and Explainability) Tj
+T*
+(- RandomForest model) Tj
+T*
+(- Symptom interpreter) Tj
+T*
+(- Human-readable explanations) Tj
+T*
+() Tj
+T*
+(Slide 7 - Impact) Tj
+T*
+(- Faster triage) Tj
+T*
+(- Reduced travel for basic care) Tj
+T*
+(- Better emergency readiness) Tj
+T*
+() Tj
+T*
+(Slide 8 - Security and Privacy) Tj
+T*
+(- JWT auth) Tj
+T*
+(- Role-based access) Tj
+T*
+(- No external AI providers) Tj
+T*
+() Tj
+T*
+(Slide 9 - Deployment Plan) Tj
+T*
+(- Cloud deployment with separate services) Tj
+T*
+(- Local hospital integration) Tj
+T*
+(- Offline-friendly mode) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 359 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+54 760 Td
+(Slide 10 - Roadmap) Tj
+T*
+(- Real clinical data) Tj
+T*
+(- Regional language expansion) Tj
+T*
+(- Emergency service partnerships) Tj
+T*
+() Tj
+T*
+(Slide 11 - Team) Tj
+T*
+(- Roles and responsibilities) Tj
+T*
+() Tj
+T*
+(Slide 12 - Ask) Tj
+T*
+(- Pilot hospitals or datasets) Tj
+T*
+(- Mentorship and validation support) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000001736 00000 n 
+0000001862 00000 n 
+0000002272 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+2398
+%%EOF

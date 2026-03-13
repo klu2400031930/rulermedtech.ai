@@ -1,0 +1,285 @@
+{
+    "Common Cold":  [
+                        "sneezing",
+                        "runny_nose",
+                        "nasal_congestion",
+                        "cough",
+                        "sore_throat"
+                    ],
+    "Allergic Rhinitis":  [
+                              "sneezing",
+                              "itching",
+                              "runny_nose",
+                              "watery_eyes",
+                              "nasal_congestion"
+                          ],
+    "Indigestion":  [
+                        "stomach_pain",
+                        "bloating",
+                        "gas",
+                        "nausea"
+                    ],
+    "Influenza":  [
+                      "high_fever",
+                      "body_pain",
+                      "headache",
+                      "fatigue",
+                      "chills"
+                  ],
+    "Dengue Fever":  [
+                         "fever",
+                         "joint_pain",
+                         "skin_rash",
+                         "fatigue"
+                     ],
+    "Pneumonia":  [
+                      "persistent_cough",
+                      "fever",
+                      "chest_pain",
+                      "breathing_difficulty"
+                  ],
+    "Appendicitis":  [
+                         "abdominal_pain",
+                         "vomiting",
+                         "loss_of_appetite",
+                         "fever"
+                     ],
+    "Urinary Tract Infection":  [
+                                    "burning_urination",
+                                    "frequent_urination",
+                                    "pelvic_pain",
+                                    "fever"
+                                ],
+    "Migraine":  [
+                     "severe_headache",
+                     "nausea",
+                     "light_sensitivity",
+                     "dizziness"
+                 ],
+    "Heart Attack":  [
+                         "severe_chest_pain",
+                         "sweating",
+                         "shortness_of_breath",
+                         "nausea",
+                         "arm_pain"
+                     ],
+    "Stroke":  [
+                   "sudden_weakness",
+                   "facial_drooping",
+                   "difficulty_speaking",
+                   "confusion"
+               ],
+    "Anaphylaxis":  [
+                        "allergic_swelling",
+                        "swelling_throat",
+                        "breathing_difficulty",
+                        "hives"
+                    ],
+    "Tension Headache":  [
+                             "headache",
+                             "dizziness",
+                             "fatigue",
+                             "eye_twitching"
+                         ],
+    "Skin Irritation":  [
+                            "itching",
+                            "redness",
+                            "dry_skin"
+                        ],
+    "Laryngitis":  [
+                       "sore_throat",
+                       "hoarse_voice",
+                       "throat_irritation",
+                       "dry_cough"
+                   ],
+    "Sleep Deprivation":  [
+                              "fatigue",
+                              "tiredness",
+                              "headache",
+                              "irritability"
+                          ],
+    "Muscle Strain":  [
+                          "muscle_pain",
+                          "muscle_soreness",
+                          "muscle_stiffness"
+                      ],
+    "Dehydration":  [
+                        "dizziness",
+                        "fatigue",
+                        "excessive_thirst",
+                        "weakness"
+                    ],
+    "Conjunctivitis":  [
+                           "eye_redness",
+                           "watery_eyes",
+                           "itching",
+                           "eye_pain"
+                       ],
+    "Posture Strain":  [
+                           "back_pain",
+                           "back_stiffness",
+                           "neck_pain"
+                       ],
+    "Dermatitis":  [
+                       "skin_rash",
+                       "itching",
+                       "dry_skin",
+                       "redness"
+                   ],
+    "Throat Infection":  [
+                             "sore_throat",
+                             "fever",
+                             "throat_irritation",
+                             "difficulty_swallowing"
+                         ],
+    "Constipation":  [
+                         "constipation",
+                         "abdominal_pain",
+                         "bloating"
+                     ],
+    "Ear Pressure":  [
+                         "ear_blockage",
+                         "ear_pain",
+                         "dizziness"
+                     ],
+    "Stress Fatigue":  [
+                           "fatigue",
+                           "headache",
+                           "dizziness"
+                       ],
+    "Low Blood Sugar":  [
+                            "dizziness",
+                            "weakness",
+                            "excessive_thirst",
+                            "fainting"
+                        ],
+    "Motion Sickness":  [
+                            "nausea",
+                            "dizziness",
+                            "vomiting"
+                        ],
+    "Dry Eyes":  [
+                     "dry_eyes",
+                     "eye_redness",
+                     "eye_twitching"
+                 ],
+    "Sinus Irritation":  [
+                             "sinus_pressure",
+                             "nasal_congestion",
+                             "headache",
+                             "facial_pain"
+                         ],
+    "Acid Reflux":  [
+                        "chest_discomfort",
+                        "nausea",
+                        "abdominal_pain",
+                        "vomiting"
+                    ],
+    "Tuberculosis":  [
+                         "persistent_cough",
+                         "night_sweats",
+                         "weight_loss",
+                         "fatigue",
+                         "coughing_blood"
+                     ],
+    "Hepatitis":  [
+                      "yellow_skin",
+                      "yellow_eyes",
+                      "dark_urine",
+                      "fatigue",
+                      "loss_of_appetite"
+                  ],
+    "Chikungunya":  [
+                        "fever",
+                        "severe_joint_pain",
+                        "fatigue",
+                        "skin_rash"
+                    ],
+    "Bronchitis":  [
+                       "persistent_cough",
+                       "cough_mucus",
+                       "breathing_difficulty",
+                       "chest_discomfort"
+                   ],
+    "Ear Infection":  [
+                          "ear_pain",
+                          "fever",
+                          "hearing_loss",
+                          "ear_blockage"
+                      ],
+    "Anemia":  [
+                   "fatigue",
+                   "weakness",
+                   "dizziness",
+                   "pale_skin"
+               ],
+    "Sinusitis":  [
+                      "sinus_pressure",
+                      "facial_pain",
+                      "fever",
+                      "nasal_congestion"
+                  ],
+    "Severe Asthma Attack":  [
+                                 "breathing_difficulty",
+                                 "wheezing",
+                                 "chest_tightness",
+                                 "shortness_of_breath"
+                             ],
+    "Meningitis":  [
+                       "high_fever",
+                       "neck_stiffness",
+                       "confusion",
+                       "severe_headache"
+                   ],
+    "Epilepsy":  [
+                     "seizures",
+                     "loss_of_consciousness",
+                     "confusion"
+                 ],
+    "Gastrointestinal Bleeding":  [
+                                      "vomiting_blood",
+                                      "black_stool",
+                                      "severe_abdominal_pain",
+                                      "weakness"
+                                  ],
+    "Traumatic Brain Injury":  [
+                                   "confusion",
+                                   "vomiting",
+                                   "loss_of_consciousness",
+                                   "severe_headache"
+                               ],
+    "Respiratory Failure":  [
+                                "breathing_difficulty",
+                                "inability_breathe",
+                                "blue_lips",
+                                "collapse"
+                            ],
+    "Pulmonary Embolism":  [
+                               "severe_chest_pain",
+                               "shortness_of_breath",
+                               "coughing_blood",
+                               "rapid_heartbeat"
+                           ],
+    "Cardiac Arrest":  [
+                           "collapse",
+                           "loss_of_consciousness",
+                           "inability_breathe"
+                       ],
+    "Aortic Dissection":  [
+                              "severe_chest_pain",
+                              "back_pain",
+                              "fainting"
+                          ],
+    "Peritonitis":  [
+                        "severe_abdominal_pain",
+                        "fever",
+                        "vomiting",
+                        "abdominal_cramps"
+                    ],
+    "Acute Glaucoma":  [
+                           "eye_pain",
+                           "blurred_vision",
+                           "vision_loss",
+                           "headache"
+                       ]
+}

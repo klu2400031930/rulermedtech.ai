@@ -1,0 +1,383 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 2331 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+54 760 Td
+(MedAI - Rural HealthTech Project Report) Tj
+T*
+(Date: 2026-03-13) Tj
+T*
+() Tj
+T*
+(1. Executive Summary) Tj
+T*
+(MedAI is a full-stack, AI-assisted rural healthcare platform that provides symptom checks,) Tj
+T*
+(triage guidance, online consultations, emergency workflows, and a precaution chatbot.) Tj
+T*
+(It is designed to be simple, low-cost, and demo-ready without paid APIs.) Tj
+T*
+() Tj
+T*
+(2. Problem Statement) Tj
+T*
+(Rural healthcare faces delayed diagnosis, limited specialist access, and slow emergency) Tj
+T*
+(response. Patients often have to travel long distances or wait for care. MedAI aims to) Tj
+T*
+(reduce time-to-triage and support faster decision-making.) Tj
+T*
+() Tj
+T*
+(3. Objectives) Tj
+T*
+(- Provide quick symptom check and risk scoring) Tj
+T*
+(- Enable consultation booking with doctors) Tj
+T*
+(- Support emergency escalation when risk is high) Tj
+T*
+(- Offer precautionary guidance with a chatbot) Tj
+T*
+(- Keep the experience simple, multilingual, and low-bandwidth friendly) Tj
+T*
+() Tj
+T*
+(4. Solution Overview) Tj
+T*
+(Patient flow:) Tj
+T*
+(- Enter symptoms and vitals) Tj
+T*
+(- AI service predicts risk and likely conditions) Tj
+T*
+(- User receives explanation and recommendations) Tj
+T*
+(- For urgent cases, emergency workflow can be triggered) Tj
+T*
+(- For non-urgent cases, users can book a consultation) Tj
+T*
+() Tj
+T*
+(Doctor flow:) Tj
+T*
+(- Manage availability slots) Tj
+T*
+(- Review patient bookings) Tj
+T*
+(- Start and complete consultations) Tj
+T*
+() Tj
+T*
+(Admin flow:) Tj
+T*
+(- Confirm or reject bookings) Tj
+T*
+(- Review payment statuses) Tj
+T*
+(- Monitor operational status) Tj
+T*
+() Tj
+T*
+(5. Architecture \(High Level\)) Tj
+T*
+(- Frontend: React UI for all roles) Tj
+T*
+(- Backend: Node.js + Express REST API) Tj
+T*
+(- AI Service: FastAPI for prediction, interpretation, explanation, chatbot) Tj
+T*
+(- Database: MongoDB for users, consultations, diagnoses, hospitals) Tj
+T*
+(- Realtime: Socket.IO for live updates) Tj
+T*
+() Tj
+T*
+(6. Why This Architecture and Benefits) Tj
+T*
+(- React: modular UI, fast iteration, consistent user experience) Tj
+T*
+(- Node/Express: quick REST APIs, strong ecosystem, easy integration) Tj
+T*
+(- FastAPI: fast Python APIs, type safety, ideal for ML services) Tj
+T*
+(- MongoDB: flexible schema for evolving medical data) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 2146 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+54 760 Td
+(- Socket.IO: real-time updates for critical workflows) Tj
+T*
+(- Separated AI service: scalable and independent model updates) Tj
+T*
+() Tj
+T*
+(7. Key Modules \(What, Why, Benefits\)) Tj
+T*
+(7.1 Symptom Check) Tj
+T*
+(What: Accepts symptoms and vitals, sends to AI service, shows risk and likely conditions.) Tj
+T*
+(Why: Early triage helps in rural settings.) Tj
+T*
+(Benefits: Fast decision support and clear next steps.) Tj
+T*
+() Tj
+T*
+(7.2 Symptom Interpreter) Tj
+T*
+(What: Converts free-text into structured symptom codes.) Tj
+T*
+(Why: Users describe symptoms in natural language.) Tj
+T*
+(Benefits: Works offline, predictable, no paid APIs.) Tj
+T*
+() Tj
+T*
+(7.3 AI Prediction Model) Tj
+T*
+(What: RandomForest classifier using symptoms and vitals.) Tj
+T*
+(Why: Robust for tabular data and interpretable.) Tj
+T*
+(Benefits: Stable predictions with feature importance.) Tj
+T*
+() Tj
+T*
+(7.4 Diagnosis Explanation) Tj
+T*
+(What: Generates human-readable summary and action.) Tj
+T*
+(Why: Raw probabilities are not enough for patients.) Tj
+T*
+(Benefits: Builds trust and clarity.) Tj
+T*
+() Tj
+T*
+(7.5 Precaution Chatbot) Tj
+T*
+(What: Rule-based suggestions and precautions.) Tj
+T*
+(Why: Immediate self-care guidance.) Tj
+T*
+(Benefits: Safe, low-cost, deterministic responses.) Tj
+T*
+() Tj
+T*
+(7.6 Consultations) Tj
+T*
+(What: Booking flow, payments, meetings, confirmations.) Tj
+T*
+(Why: Bridges AI triage with real clinical care.) Tj
+T*
+(Benefits: End-to-end patient journey.) Tj
+T*
+() Tj
+T*
+(7.7 Emergency Workflow) Tj
+T*
+(What: Triggers urgent response and notifications.) Tj
+T*
+(Why: High-risk cases need escalation.) Tj
+T*
+(Benefits: Faster response and clearer guidance.) Tj
+T*
+() Tj
+T*
+(7.8 Profiles) Tj
+T*
+(What: Role-based profile pages with edit functionality.) Tj
+T*
+(Why: Official and accountable identity.) Tj
+T*
+(Benefits: Trust and better record-keeping.) Tj
+T*
+() Tj
+T*
+(8. Data Flow \(Simplified\)) Tj
+T*
+(- UI sends symptoms to backend) Tj
+T*
+(- Backend forwards to AI service) Tj
+T*
+(- AI returns prediction, explanation, probabilities) Tj
+T*
+(- Backend stores diagnosis and returns to UI) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1996 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+54 760 Td
+(9. Safety, Ethics, and Privacy) Tj
+T*
+(- JWT authentication and role-based access) Tj
+T*
+(- Clear disclaimers about AI limitations) Tj
+T*
+(- No external AI providers, reduced data exposure) Tj
+T*
+() Tj
+T*
+(10. Accessibility and Inclusion) Tj
+T*
+(- Low-bandwidth mode) Tj
+T*
+(- Voice guidance support) Tj
+T*
+(- Multilingual UI options) Tj
+T*
+() Tj
+T*
+(11. Limitations) Tj
+T*
+(- Model trained on synthetic data for demo purposes) Tj
+T*
+(- Rule-based chatbot is not diagnostic) Tj
+T*
+(- Real-world deployment requires clinical validation) Tj
+T*
+() Tj
+T*
+(12. Future Work) Tj
+T*
+(- Integrate real clinical datasets) Tj
+T*
+(- Add offline caching) Tj
+T*
+(- Expand emergency integrations with local services) Tj
+T*
+() Tj
+T*
+(13. Hackathon Jury Q and A \(Prepared\)) Tj
+T*
+(Q1: What problem are you solving?) Tj
+T*
+(A: Delayed diagnosis and limited access in rural healthcare.) Tj
+T*
+() Tj
+T*
+(Q2: Why not just telemedicine?) Tj
+T*
+(A: We combine triage, explanation, emergency workflows, and booking in one platform.) Tj
+T*
+() Tj
+T*
+(Q3: How safe is the AI?) Tj
+T*
+(A: It is decision support only, with clear disclaimers and escalation paths.) Tj
+T*
+() Tj
+T*
+(Q4: Why RandomForest?) Tj
+T*
+(A: Robust for structured data, interpretable, reliable baseline.) Tj
+T*
+() Tj
+T*
+(Q5: How do you handle free-text symptoms?) Tj
+T*
+(A: Rule-based and fuzzy matching, no paid NLP APIs.) Tj
+T*
+() Tj
+T*
+(Q6: What if AI service is down?) Tj
+T*
+(A: Backend has fallbacks and UI gracefully handles errors.) Tj
+T*
+() Tj
+T*
+(Q7: How is data protected?) Tj
+T*
+(A: JWT auth, role-based access, no external AI calls.) Tj
+T*
+() Tj
+T*
+(Q8: How do you scale?) Tj
+T*
+(A: AI is a separate service, backend is stateless, easy to scale horizontally.) Tj
+T*
+() Tj
+T*
+(Q9: What is unique here?) Tj
+T*
+(A: Integrated triage + emergency response + consultation + explanation.) Tj
+T*
+() Tj
+T*
+(Q10: What are the next steps?) Tj
+T*
+(A: Clinical validation and integration with real health systems.) Tj
+T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 40 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+54 760 Td
+() Tj
+T*
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000002587 00000 n 
+0000002713 00000 n 
+0000004911 00000 n 
+0000005037 00000 n 
+0000007085 00000 n 
+0000007211 00000 n 
+0000007302 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+7430
+%%EOF

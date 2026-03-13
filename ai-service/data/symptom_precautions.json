@@ -1,0 +1,126 @@
+{
+  "fever": [
+    "Rest and drink plenty of fluids.",
+    "Monitor temperature and seek care if it stays high for more than 48 hours."
+  ],
+  "high_fever": [
+    "Rest, hydrate, and use cool compresses.",
+    "Seek medical advice if fever is very high or persistent."
+  ],
+  "chills": [
+    "Keep warm and rest.",
+    "Hydrate well."
+  ],
+  "cough": [
+    "Drink warm fluids and rest.",
+    "Avoid smoke and strong irritants."
+  ],
+  "persistent_cough": [
+    "If cough lasts more than 2-3 weeks, see a doctor.",
+    "Avoid smoke and stay hydrated."
+  ],
+  "coughing_blood": [
+    "Seek urgent medical care immediately."
+  ],
+  "shortness_of_breath": [
+    "Sit upright and rest.",
+    "Seek urgent care if breathing is difficult or worsening."
+  ],
+  "breathing_difficulty": [
+    "Seek urgent care if breathing is difficult or worsening."
+  ],
+  "wheezing": [
+    "Avoid triggers like smoke or dust.",
+    "Seek medical care if wheezing is severe or persistent."
+  ],
+  "chest_pain": [
+    "Seek urgent medical evaluation."
+  ],
+  "severe_chest_pain": [
+    "Call emergency services immediately."
+  ],
+  "headache": [
+    "Rest in a quiet, dark room and hydrate.",
+    "Avoid excessive screen time."
+  ],
+  "severe_headache": [
+    "Seek urgent medical evaluation, especially if sudden or unusual."
+  ],
+  "sudden_headache": [
+    "Seek urgent medical evaluation."
+  ],
+  "dizziness": [
+    "Sit or lie down and hydrate.",
+    "Avoid sudden position changes."
+  ],
+  "fainting": [
+    "Lie down and elevate legs if safe.",
+    "Seek medical care if it happens again."
+  ],
+  "nausea": [
+    "Take small sips of clear fluids.",
+    "Eat light meals and avoid oily foods."
+  ],
+  "vomiting": [
+    "Take small sips of oral rehydration solution.",
+    "Avoid heavy foods until better."
+  ],
+  "vomiting_blood": [
+    "Seek emergency care immediately."
+  ],
+  "diarrhea": [
+    "Use oral rehydration solution and stay hydrated.",
+    "Seek care if dehydration or blood in stool occurs."
+  ],
+  "black_stool": [
+    "Seek urgent medical care immediately."
+  ],
+  "dehydration": [
+    "Drink oral rehydration solution.",
+    "Seek care if severe or unable to keep fluids down."
+  ],
+  "rash": [
+    "Keep skin clean and avoid scratching.",
+    "Seek care if rash spreads quickly or with fever."
+  ],
+  "skin_rash": [
+    "Keep skin clean and avoid scratching.",
+    "Seek care if rash spreads quickly or with fever."
+  ],
+  "hives": [
+    "Avoid known allergens.",
+    "Seek urgent care if breathing difficulty or swelling occurs."
+  ],
+  "swelling_throat": [
+    "Seek emergency care immediately."
+  ],
+  "swelling_face": [
+    "Seek urgent care if swelling is sudden or severe."
+  ],
+  "swelling_tongue": [
+    "Seek emergency care immediately."
+  ],
+  "seizures": [
+    "Keep the person safe and turn them on their side.",
+    "Call emergency services if seizure lasts more than 5 minutes."
+  ],
+  "loss_of_consciousness": [
+    "Call emergency services immediately."
+  ],
+  "severe_bleeding": [
+    "Apply firm pressure to the wound and seek emergency care."
+  ],
+  "uncontrolled_bleeding": [
+    "Apply firm pressure and seek emergency care immediately."
+  ],
+  "burns": [
+    "Cool the burn under running water for several minutes.",
+    "Seek care if the burn is severe or extensive."
+  ],
+  "severe_burns": [
+    "Seek emergency care immediately."
+  ],
+  "vision_loss": [
+    "Seek emergency eye care immediately."
+  ]
+}

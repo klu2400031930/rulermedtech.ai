@@ -1,0 +1,494 @@
+[
+    {
+        "id":  "fever",
+        "label":  "Fever"
+    },
+    {
+        "id":  "high_fever",
+        "label":  "High Fever"
+    },
+    {
+        "id":  "chills",
+        "label":  "Chills"
+    },
+    {
+        "id":  "sweating",
+        "label":  "Sweating"
+    },
+    {
+        "id":  "night_sweats",
+        "label":  "Night Sweats"
+    },
+    {
+        "id":  "fatigue",
+        "label":  "Fatigue"
+    },
+    {
+        "id":  "weakness",
+        "label":  "Weakness"
+    },
+    {
+        "id":  "tiredness",
+        "label":  "Tiredness"
+    },
+    {
+        "id":  "weight_loss",
+        "label":  "Weight Loss"
+    },
+    {
+        "id":  "loss_of_appetite",
+        "label":  "Loss of Appetite"
+    },
+    {
+        "id":  "body_pain",
+        "label":  "Body Pain"
+    },
+    {
+        "id":  "headache",
+        "label":  "Headache"
+    },
+    {
+        "id":  "severe_headache",
+        "label":  "Severe Headache"
+    },
+    {
+        "id":  "sudden_headache",
+        "label":  "Sudden Headache"
+    },
+    {
+        "id":  "dizziness",
+        "label":  "Dizziness"
+    },
+    {
+        "id":  "lightheadedness",
+        "label":  "Lightheadedness"
+    },
+    {
+        "id":  "fainting",
+        "label":  "Fainting"
+    },
+    {
+        "id":  "confusion",
+        "label":  "Confusion"
+    },
+    {
+        "id":  "cough",
+        "label":  "Cough"
+    },
+    {
+        "id":  "persistent_cough",
+        "label":  "Persistent Cough"
+    },
+    {
+        "id":  "dry_cough",
+        "label":  "Dry Cough"
+    },
+    {
+        "id":  "cough_mucus",
+        "label":  "Cough With Mucus"
+    },
+    {
+        "id":  "coughing_blood",
+        "label":  "Coughing Blood"
+    },
+    {
+        "id":  "sore_throat",
+        "label":  "Sore Throat"
+    },
+    {
+        "id":  "severe_sore_throat",
+        "label":  "Severe Sore Throat"
+    },
+    {
+        "id":  "hoarse_voice",
+        "label":  "Hoarse Voice"
+    },
+    {
+        "id":  "difficulty_swallowing",
+        "label":  "Difficulty Swallowing"
+    },
+    {
+        "id":  "painful_swallowing",
+        "label":  "Painful Swallowing"
+    },
+    {
+        "id":  "throat_irritation",
+        "label":  "Throat Irritation"
+    },
+    {
+        "id":  "throat_dryness",
+        "label":  "Throat Dryness"
+    },
+    {
+        "id":  "runny_nose",
+        "label":  "Runny Nose"
+    },
+    {
+        "id":  "sneezing",
+        "label":  "Sneezing"
+    },
+    {
+        "id":  "nasal_congestion",
+        "label":  "Nasal Congestion"
+    },
+    {
+        "id":  "sinus_pressure",
+        "label":  "Sinus Pressure"
+    },
+    {
+        "id":  "facial_pain",
+        "label":  "Facial Pain"
+    },
+    {
+        "id":  "shortness_of_breath",
+        "label":  "Shortness of Breath"
+    },
+    {
+        "id":  "breathing_difficulty",
+        "label":  "Breathing Difficulty"
+    },
+    {
+        "id":  "wheezing",
+        "label":  "Wheezing"
+    },
+    {
+        "id":  "chest_tightness",
+        "label":  "Chest Tightness"
+    },
+    {
+        "id":  "chest_pain",
+        "label":  "Chest Pain"
+    },
+    {
+        "id":  "severe_chest_pain",
+        "label":  "Severe Chest Pain"
+    },
+    {
+        "id":  "chest_discomfort",
+        "label":  "Chest Discomfort"
+    },
+    {
+        "id":  "rapid_heartbeat",
+        "label":  "Rapid Heartbeat"
+    },
+    {
+        "id":  "heart_palpitations",
+        "label":  "Heart Palpitations"
+    },
+    {
+        "id":  "arm_pain",
+        "label":  "Arm Pain"
+    },
+    {
+        "id":  "abdominal_pain",
+        "label":  "Abdominal Pain"
+    },
+    {
+        "id":  "severe_abdominal_pain",
+        "label":  "Severe Abdominal Pain"
+    },
+    {
+        "id":  "abdominal_cramps",
+        "label":  "Abdominal Cramps"
+    },
+    {
+        "id":  "stomach_pain",
+        "label":  "Stomach Pain"
+    },
+    {
+        "id":  "bloating",
+        "label":  "Bloating"
+    },
+    {
+        "id":  "gas",
+        "label":  "Gas"
+    },
+    {
+        "id":  "nausea",
+        "label":  "Nausea"
+    },
+    {
+        "id":  "persistent_nausea",
+        "label":  "Persistent Nausea"
+    },
+    {
+        "id":  "vomiting",
+        "label":  "Vomiting"
+    },
+    {
+        "id":  "persistent_vomiting",
+        "label":  "Persistent Vomiting"
+    },
+    {
+        "id":  "vomiting_blood",
+        "label":  "Vomiting Blood"
+    },
+    {
+        "id":  "diarrhea",
+        "label":  "Diarrhea"
+    },
+    {
+        "id":  "persistent_diarrhea",
+        "label":  "Persistent Diarrhea"
+    },
+    {
+        "id":  "constipation",
+        "label":  "Constipation"
+    },
+    {
+        "id":  "blood_stool",
+        "label":  "Blood in Stool"
+    },
+    {
+        "id":  "black_stool",
+        "label":  "Black Stool"
+    },
+    {
+        "id":  "burning_urination",
+        "label":  "Burning Urination"
+    },
+    {
+        "id":  "frequent_urination",
+        "label":  "Frequent Urination"
+    },
+    {
+        "id":  "pelvic_pain",
+        "label":  "Pelvic Pain"
+    },
+    {
+        "id":  "dark_urine",
+        "label":  "Dark Urine"
+    },
+    {
+        "id":  "blood_urine",
+        "label":  "Blood in Urine"
+    },
+    {
+        "id":  "yellow_skin",
+        "label":  "Yellow Skin"
+    },
+    {
+        "id":  "yellow_eyes",
+        "label":  "Yellow Eyes"
+    },
+    {
+        "id":  "joint_pain",
+        "label":  "Joint Pain"
+    },
+    {
+        "id":  "severe_joint_pain",
+        "label":  "Severe Joint Pain"
+    },
+    {
+        "id":  "joint_stiffness",
+        "label":  "Joint Stiffness"
+    },
+    {
+        "id":  "joint_swelling",
+        "label":  "Joint Swelling"
+    },
+    {
+        "id":  "muscle_pain",
+        "label":  "Muscle Pain"
+    },
+    {
+        "id":  "muscle_soreness",
+        "label":  "Muscle Soreness"
+    },
+    {
+        "id":  "muscle_stiffness",
+        "label":  "Muscle Stiffness"
+    },
+    {
+        "id":  "muscle_cramps",
+        "label":  "Muscle Cramps"
+    },
+    {
+        "id":  "back_pain",
+        "label":  "Back Pain"
+    },
+    {
+        "id":  "back_stiffness",
+        "label":  "Back Stiffness"
+    },
+    {
+        "id":  "neck_stiffness",
+        "label":  "Neck Stiffness"
+    },
+    {
+        "id":  "neck_pain",
+        "label":  "Neck Pain"
+    },
+    {
+        "id":  "skin_rash",
+        "label":  "Skin Rash"
+    },
+    {
+        "id":  "redness",
+        "label":  "Redness"
+    },
+    {
+        "id":  "itching",
+        "label":  "Itching"
+    },
+    {
+        "id":  "dry_skin",
+        "label":  "Dry Skin"
+    },
+    {
+        "id":  "swelling",
+        "label":  "Swelling"
+    },
+    {
+        "id":  "hives",
+        "label":  "Hives"
+    },
+    {
+        "id":  "blisters",
+        "label":  "Blisters"
+    },
+    {
+        "id":  "eye_redness",
+        "label":  "Eye Redness"
+    },
+    {
+        "id":  "eye_pain",
+        "label":  "Eye Pain"
+    },
+    {
+        "id":  "blurred_vision",
+        "label":  "Blurred Vision"
+    },
+    {
+        "id":  "vision_loss",
+        "label":  "Vision Loss"
+    },
+    {
+        "id":  "light_sensitivity",
+        "label":  "Sensitivity to Light"
+    },
+    {
+        "id":  "watery_eyes",
+        "label":  "Watery Eyes"
+    },
+    {
+        "id":  "dry_eyes",
+        "label":  "Dry Eyes"
+    },
+    {
+        "id":  "eye_twitching",
+        "label":  "Eye Twitching"
+    },
+    {
+        "id":  "ear_pain",
+        "label":  "Ear Pain"
+    },
+    {
+        "id":  "ear_ringing",
+        "label":  "Ear Ringing"
+    },
+    {
+        "id":  "hearing_loss",
+        "label":  "Hearing Loss"
+    },
+    {
+        "id":  "ear_blockage",
+        "label":  "Ear Blockage"
+    },
+    {
+        "id":  "tooth_pain",
+        "label":  "Tooth Pain"
+    },
+    {
+        "id":  "gum_swelling",
+        "label":  "Gum Swelling"
+    },
+    {
+        "id":  "gum_bleeding",
+        "label":  "Gum Bleeding"
+    },
+    {
+        "id":  "allergic_swelling",
+        "label":  "Allergic Swelling"
+    },
+    {
+        "id":  "swelling_throat",
+        "label":  "Swelling of Throat"
+    },
+    {
+        "id":  "swelling_face",
+        "label":  "Swelling of Face"
+    },
+    {
+        "id":  "swelling_tongue",
+        "label":  "Swelling of Tongue"
+    },
+    {
+        "id":  "seizures",
+        "label":  "Seizures"
+    },
+    {
+        "id":  "loss_of_consciousness",
+        "label":  "Loss of Consciousness"
+    },
+    {
+        "id":  "sudden_weakness",
+        "label":  "Sudden Weakness"
+    },
+    {
+        "id":  "facial_drooping",
+        "label":  "Facial Drooping"
+    },
+    {
+        "id":  "difficulty_speaking",
+        "label":  "Difficulty Speaking"
+    },
+    {
+        "id":  "severe_bleeding",
+        "label":  "Severe Bleeding"
+    },
+    {
+        "id":  "uncontrolled_bleeding",
+        "label":  "Uncontrolled Bleeding"
+    },
+    {
+        "id":  "burns",
+        "label":  "Burns"
+    },
+    {
+        "id":  "severe_burns",
+        "label":  "Severe Burns"
+    },
+    {
+        "id":  "dehydration",
+        "label":  "Dehydration"
+    },
+    {
+        "id":  "excessive_thirst",
+        "label":  "Excessive Thirst"
+    },
+    {
+        "id":  "collapse",
+        "label":  "Collapse"
+    },
+    {
+        "id":  "inability_breathe",
+        "label":  "Inability to Breathe"
+    },
+    {
+        "id":  "inability_move_limbs",
+        "label":  "Inability to Move Limbs"
+    },
+    {
+        "id":  "irritability",
+        "label":  "Irritability"
+    },
+    {
+        "id":  "pale_skin",
+        "label":  "Pale Skin"
+    },
+    {
+        "id":  "blue_lips",
+        "label":  "Blue Lips"
+    }
+]

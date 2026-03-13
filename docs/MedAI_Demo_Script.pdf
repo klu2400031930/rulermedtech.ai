@@ -1,0 +1,98 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 1310 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+54 760 Td
+(MedAI - 2 Minute Demo Script) Tj
+T*
+(Date: 2026-03-13) Tj
+T*
+() Tj
+T*
+(0:00 - 0:15) Tj
+T*
+(Hello, we are presenting MedAI, an AI-assisted rural healthcare platform that helps with) Tj
+T*
+(symptom checks, consultations, and emergency response.) Tj
+T*
+() Tj
+T*
+(0:15 - 0:35) Tj
+T*
+(I will start as a patient. I open Symptom Check, select symptoms, and enter vitals.) Tj
+T*
+(The AI returns risk level, likely conditions, and clear recommendations.) Tj
+T*
+() Tj
+T*
+(0:35 - 0:55) Tj
+T*
+(If risk is urgent, I can trigger the emergency workflow. Otherwise I go to Consultations,) Tj
+T*
+(choose a doctor, and reserve a slot.) Tj
+T*
+() Tj
+T*
+(0:55 - 1:15) Tj
+T*
+(Now as a doctor, I see my dashboard, upcoming consultations, and availability slots.) Tj
+T*
+(I can confirm meetings and complete sessions.) Tj
+T*
+() Tj
+T*
+(1:15 - 1:35) Tj
+T*
+(As an admin, I see booking requests, payment status, and confirmation controls.) Tj
+T*
+(This ensures operational visibility.) Tj
+T*
+() Tj
+T*
+(1:35 - 1:55) Tj
+T*
+(The precaution chatbot provides immediate guidance for patients before they reach a clinic.) Tj
+T*
+(It is rule-based and safe.) Tj
+T*
+() Tj
+T*
+(1:55 - 2:00) Tj
+T*
+(MedAI reduces time-to-triage, improves access, and supports faster emergency response.) Tj
+T*
+(Thank you.) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000001547 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1673
+%%EOF

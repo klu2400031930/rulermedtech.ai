@@ -1,0 +1,222 @@
+{
+    "Common Cold":  {
+                        "severity":  "low",
+                        "department":  "General Medicine",
+                        "action":  "Home care, hydration, rest"
+                    },
+    "Influenza":  {
+                      "severity":  "moderate",
+                      "department":  "General Medicine",
+                      "action":  "Doctor consultation"
+                  },
+    "Dengue Fever":  {
+                         "severity":  "high",
+                         "department":  "Infectious Disease",
+                         "action":  "Immediate hospital testing"
+                     },
+    "Pneumonia":  {
+                      "severity":  "high",
+                      "department":  "Pulmonology",
+                      "action":  "Urgent hospital care"
+                  },
+    "Appendicitis":  {
+                         "severity":  "high",
+                         "department":  "General Surgery",
+                         "action":  "Emergency evaluation"
+                     },
+    "Heart Attack":  {
+                         "severity":  "critical",
+                         "department":  "Cardiology / Emergency",
+                         "action":  "Call emergency immediately"
+                     },
+    "Stroke":  {
+                   "severity":  "critical",
+                   "department":  "Neurology / Emergency",
+                   "action":  "Immediate emergency treatment"
+               },
+    "Anaphylaxis":  {
+                        "severity":  "critical",
+                        "department":  "Emergency",
+                        "action":  "Immediate epinephrine + emergency care"
+                    },
+    "Tension Headache":  {
+                             "severity":  "low",
+                             "department":  "Neurology",
+                             "action":  "Rest, hydration, mild pain relief"
+                         },
+    "Skin Irritation":  {
+                            "severity":  "low",
+                            "department":  "Dermatology",
+                            "action":  "Topical creams and skin care"
+                        },
+    "Laryngitis":  {
+                       "severity":  "low",
+                       "department":  "ENT",
+                       "action":  "Voice rest and hydration"
+                   },
+    "Sleep Deprivation":  {
+                              "severity":  "low",
+                              "department":  "General Medicine",
+                              "action":  "Improve sleep hygiene"
+                          },
+    "Muscle Strain":  {
+                          "severity":  "low",
+                          "department":  "Orthopedics",
+                          "action":  "Rest, ice, physiotherapy"
+                      },
+    "Dehydration":  {
+                        "severity":  "moderate",
+                        "department":  "General Medicine",
+                        "action":  "Oral rehydration or IV fluids"
+                    },
+    "Conjunctivitis":  {
+                           "severity":  "low",
+                           "department":  "Ophthalmology",
+                           "action":  "Eye drops and hygiene"
+                       },
+    "Posture Strain":  {
+                           "severity":  "low",
+                           "department":  "Orthopedics",
+                           "action":  "Posture correction and exercises"
+                       },
+    "Dermatitis":  {
+                       "severity":  "low",
+                       "department":  "Dermatology",
+                       "action":  "Skin treatment and moisturizers"
+                   },
+    "Throat Infection":  {
+                             "severity":  "moderate",
+                             "department":  "ENT",
+                             "action":  "Doctor consultation and medication"
+                         },
+    "Constipation":  {
+                         "severity":  "low",
+                         "department":  "Gastroenterology",
+                         "action":  "Diet change and hydration"
+                     },
+    "Ear Pressure":  {
+                         "severity":  "low",
+                         "department":  "ENT",
+                         "action":  "Pressure equalization and rest"
+                     },
+    "Stress Fatigue":  {
+                           "severity":  "low",
+                           "department":  "Psychiatry",
+                           "action":  "Stress management"
+                       },
+    "Low Blood Sugar":  {
+                            "severity":  "moderate",
+                            "department":  "Endocrinology",
+                            "action":  "Immediate sugar intake"
+                        },
+    "Motion Sickness":  {
+                            "severity":  "low",
+                            "department":  "General Medicine",
+                            "action":  "Antiemetic medication"
+                        },
+    "Dry Eyes":  {
+                     "severity":  "low",
+                     "department":  "Ophthalmology",
+                     "action":  "Artificial tears"
+                 },
+    "Sinus Irritation":  {
+                             "severity":  "low",
+                             "department":  "ENT",
+                             "action":  "Steam inhalation"
+                         },
+    "Acid Reflux":  {
+                        "severity":  "moderate",
+                        "department":  "Gastroenterology",
+                        "action":  "Antacids and diet change"
+                    },
+    "Tuberculosis":  {
+                         "severity":  "high",
+                         "department":  "Infectious Disease",
+                         "action":  "Immediate testing and long-term antibiotics"
+                     },
+    "Hepatitis":  {
+                      "severity":  "high",
+                      "department":  "Hepatology",
+                      "action":  "Hospital evaluation"
+                  },
+    "Chikungunya":  {
+                        "severity":  "high",
+                        "department":  "Infectious Disease",
+                        "action":  "Medical monitoring and supportive care"
+                    },
+    "Bronchitis":  {
+                       "severity":  "moderate",
+                       "department":  "Pulmonology",
+                       "action":  "Medical consultation"
+                   },
+    "Ear Infection":  {
+                          "severity":  "moderate",
+                          "department":  "ENT",
+                          "action":  "Antibiotics if bacterial"
+                      },
+    "Anemia":  {
+                   "severity":  "moderate",
+                   "department":  "Hematology",
+                   "action":  "Blood tests and treatment"
+               },
+    "Sinusitis":  {
+                      "severity":  "moderate",
+                      "department":  "ENT",
+                      "action":  "Antibiotics or decongestants"
+                  },
+    "Severe Asthma Attack":  {
+                                 "severity":  "critical",
+                                 "department":  "Emergency / Pulmonology",
+                                 "action":  "Immediate emergency treatment"
+                             },
+    "Meningitis":  {
+                       "severity":  "critical",
+                       "department":  "Emergency / Neurology",
+                       "action":  "Immediate hospitalization"
+                   },
+    "Epilepsy":  {
+                     "severity":  "high",
+                     "department":  "Neurology",
+                     "action":  "Anti-seizure medication"
+                 },
+    "Gastrointestinal Bleeding":  {
+                                      "severity":  "critical",
+                                      "department":  "Emergency / Gastroenterology",
+                                      "action":  "Immediate hospital treatment"
+                                  },
+    "Traumatic Brain Injury":  {
+                                   "severity":  "critical",
+                                   "department":  "Emergency / Neurosurgery",
+                                   "action":  "Emergency CT scan and care"
+                               },
+    "Respiratory Failure":  {
+                                "severity":  "critical",
+                                "department":  "Emergency / ICU",
+                                "action":  "Immediate ventilation support"
+                            },
+    "Pulmonary Embolism":  {
+                               "severity":  "critical",
+                               "department":  "Emergency / Cardiology",
+                               "action":  "Immediate anticoagulant treatment"
+                           },
+    "Cardiac Arrest":  {
+                           "severity":  "critical",
+                           "department":  "Emergency",
+                           "action":  "Immediate CPR and defibrillation"
+                       },
+    "Aortic Dissection":  {
+                              "severity":  "critical",
+                              "department":  "Emergency / Cardiothoracic Surgery",
+                              "action":  "Immediate surgery"
+                          },
+    "Peritonitis":  {
+                        "severity":  "critical",
+                        "department":  "Emergency / Surgery",
+                        "action":  "Immediate surgical evaluation"
+                    },
+    "Acute Glaucoma":  {
+                           "severity":  "critical",
+                           "department":  "Ophthalmology",
+                           "action":  "Immediate eye pressure treatment"
+                       }
+}
