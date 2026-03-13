@@ -1,0 +1,33 @@
+services:
+  # Node.js Backend
+  - type: web
+    name: medai-backend
+    env: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: MONGO_URI
+        sync: false # Set this in Render Dashboard (e.g., MongoDB Atlas URI)
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ENCRYPTION_KEY
+        generateValue: true
+      - key: ML_SERVICE_URL
+        fromService:
+          name: medai-ai-service
+          type: web
+          property: host
+
+  # Python AI Service
+  - type: web
+    name: medai-ai-service
+    env: python
+    rootDir: ai-service
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port 8000
+    envVars:
+      - key: PORT
+        value: 8000
